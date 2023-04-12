@@ -1,11 +1,13 @@
 #buttons{
 	width: 100%;
-	height: 300px;
+	height: 150px;
 	background-color: purple;
+	
 }
 
 #bt-n{
     font-size: 15.6px;
-    margin-top: 90px;
+    margin-top: 50px;
     padding: 15px;
+	margin-left: 30px ;
 }
