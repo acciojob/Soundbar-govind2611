@@ -1,26 +1,11 @@
-
-body{
-    background-color: rgb(161,100,223);
-    margin: 0;
-}
 #buttons{
-    border: 1px solid black;
-    height: 100vh;
-    width: 100vw;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    padding: 10px;
-    flex-wrap: wrap;
+	width: 100%;
+	height: 300px;
+	background-color: purple;
 }
 
-.btn{
-    background-color: rgb(102,51,153);
-    width:100px;
-    height: 50px;
-    cursor: pointer;
-    border: none;
-    border-radius: 5px;
-    color: white;
+#bt-n{
+    font-size: 15.6px;
+    margin-top: 90px;
+    padding: 15px;
 }
